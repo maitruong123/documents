@@ -1,0 +1,74 @@
+BÁO CÁO ĐÀO TẠO THÁNG 10/2026
+Chủ đề: Hướng dẫn và chỉ đạo cấp dưới
+
+1. NỘI DUNG HỌC ĐƯỢC TỪ VIDEO
+
+1.1. How miscommunication happens (TED-Ed)
+
+Qua video, tôi nhận thấy việc truyền đạt thông tin không đồng nghĩa với việc người nghe đã hiểu chính xác nội dung mà người nói muốn truyền tải.
+
+Trong công việc, sự khác biệt về kiến thức, kinh nghiệm, cách hiểu thuật ngữ và bối cảnh có thể khiến cùng một chỉ thị được hiểu theo nhiều cách khác nhau. Nếu không xác nhận lại, người thực hiện có thể hoàn thành công việc theo cách họ hiểu, nhưng kết quả lại không đáp ứng yêu cầu ban đầu.
+
+1.2. How to speak so that people want to listen (Julian Treasure – TED)
+
+Cách giao tiếp ảnh hưởng đến khả năng tiếp nhận thông tin của người nghe. Khi hướng dẫn công việc, cần truyền đạt rõ ràng, có trọng tâm, lựa chọn cách diễn đạt phù hợp với đối phương và tạo điều kiện để họ đặt câu hỏi khi chưa hiểu.
+
+Tôi nhận thấy giao tiếp hiệu quả không chỉ là truyền đạt đủ thông tin, mà còn cần bảo đảm người nghe có thể tiếp nhận, hiểu và sử dụng thông tin đó để thực hiện công việc.
+
+2. PHÂN TÍCH CASE STUDY
+
+2.1. Những nguyên nhân dẫn đến sự khác biệt trong nhận thức
+
+Trong tình huống được đưa ra, mặc dù công việc đã được giao và hướng dẫn, kết quả giữa các thành viên vẫn có sự khác biệt về chất lượng. Tôi cho rằng có thể có các nguyên nhân sau:
+
+1. Yêu cầu chưa đủ cụ thể: Người giao việc tập trung vào mục tiêu chung nhưng chưa làm rõ tiêu chí hoàn thành, phạm vi thực hiện hoặc các trường hợp cần lưu ý.
+2. Mức độ hiểu biết khác nhau: Các thành viên có kinh nghiệm và kiến thức nền khác nhau nên có thể diễn giải cùng một hướng dẫn theo những cách khác nhau.
+3. Chưa xác nhận lại nội dung: Người nhận việc có thể chưa hiểu đầy đủ nhưng vẫn bắt đầu thực hiện mà không hỏi lại.
+4. Thiếu điểm kiểm tra trong quá trình thực hiện: Vấn đề chỉ được phát hiện khi công việc đã hoàn thành, dẫn đến việc phải sửa đổi hoặc làm lại.
+5. Hướng dẫn chưa phù hợp với đối tượng: Cùng một cách giải thích có thể hiệu quả với người đã có kinh nghiệm nhưng chưa đủ rõ ràng với người ít kinh nghiệm hơn.
+
+Đây không nhất thiết là lỗi riêng của người giao việc hoặc người thực hiện, mà có thể là vấn đề trong cách truyền đạt, xác nhận và kiểm tra mức độ hiểu.
+
+2.2. Trưởng nhóm cần chỉ đạo và xác nhận như thế nào?
+
+1. Làm rõ mục tiêu và tiêu chí hoàn thành: Giải thích kết quả cần đạt, phạm vi công việc, các điều kiện quan trọng và những điểm không được bỏ sót.
+2. Đưa ra ví dụ cụ thể: Khi yêu cầu có nhiều cách hiểu, sử dụng ví dụ đầu vào, đầu ra hoặc trường hợp ngoại lệ để thống nhất cách hiểu.
+3. Yêu cầu người nhận trình bày lại: Đề nghị thành viên giải thích ngắn gọn cách họ hiểu yêu cầu và dự định thực hiện. Qua đó, có thể phát hiện điểm chưa thống nhất trước khi bắt đầu.
+4. Kiểm tra sớm đối với công việc có rủi ro: Với task phức tạp hoặc có ảnh hưởng lớn, nên review thiết kế, phương án xử lý hoặc kết quả ban đầu trước khi thành viên tiếp tục triển khai.
+5. Khuyến khích trao đổi khi có điểm chưa rõ: Tạo điều kiện để thành viên chủ động hỏi lại thay vì tự suy đoán.
+6. Phản hồi dựa trên kết quả cụ thể: Khi có sai lệch, phân tích nguyên nhân và làm rõ cách xử lý đúng để hạn chế lặp lại trong những lần sau.
+
+2.3. Những biện pháp cải thiện có thể áp dụng
+
+Trong công việc phát triển phần mềm, tôi có thể áp dụng một số biện pháp thực tế:
+
+- Khi giao task, làm rõ yêu cầu, điều kiện xử lý, các trường hợp ngoại lệ và tiêu chí kiểm tra.
+- Với task có nhiều điểm chưa rõ, thống nhất cách hiểu thông qua trao đổi hoặc ví dụ trước khi bắt đầu code.
+- Khi hướng dẫn thành viên, không chỉ đưa ra câu trả lời mà còn giải thích lý do và cách tự kiểm tra kết quả.
+- Với các thay đổi có rủi ro, thực hiện review sớm thay vì chờ đến khi hoàn thành toàn bộ.
+- Nếu cùng một lỗi hiểu sai xuất hiện nhiều lần, xem xét bổ sung tài liệu hướng dẫn, checklist hoặc ví dụ vào quy trình làm việc chung.
+
+3. TỰ ĐÁNH GIÁ VÀ KẾ HOẠCH ÁP DỤNG
+
+3.1. Những điểm tôi đã thực hiện tốt
+
+Trong quá trình thực hiện công việc, tôi thường dựa trên yêu cầu và kinh nghiệm kỹ thuật để hướng dẫn, giải thích phương án xử lý cho thành viên. Việc trao đổi về cách thực hiện giúp thành viên có cơ sở để triển khai công việc.
+
+3.2. Những điểm cần cải thiện
+
+Tôi nhận thấy cần chú ý hơn đến việc xác nhận mức độ hiểu của người nhận, thay vì mặc định rằng việc đã giải thích đầy đủ đồng nghĩa với việc đối phương đã hiểu đúng.
+
+Ngoài ra, đối với task có nhiều điều kiện hoặc trường hợp ngoại lệ, cần chủ động làm rõ các điểm quan trọng từ đầu để hạn chế việc phải sửa đổi về sau.
+
+3.3. Kế hoạch áp dụng trong thời gian tới
+
+1. Khi giao task có độ phức tạp hoặc rủi ro cao, xác nhận lại cách hiểu và phương án thực hiện trước khi bắt đầu.
+2. Đưa ra ví dụ hoặc tiêu chí kiểm tra cụ thể khi hướng dẫn những nội dung dễ gây hiểu nhầm.
+3. Thực hiện review sớm đối với các điểm quan trọng thay vì chỉ kiểm tra kết quả cuối cùng.
+4. Sau khi phát sinh sai lệch, phân tích nguyên nhân để cải thiện cách hướng dẫn và cách xác nhận yêu cầu.
+
+4. KẾT LUẬN
+
+Qua nội dung đào tạo, tôi nhận thấy hiệu quả của việc hướng dẫn và chỉ đạo không chỉ phụ thuộc vào việc truyền đạt thông tin mà còn phụ thuộc vào việc xác nhận người nhận đã hiểu đúng và có thể thực hiện đúng hay chưa.
+
+Trong thời gian tới, tôi sẽ chú trọng hơn đến việc làm rõ yêu cầu, xác nhận cách hiểu và kiểm tra sớm đối với những công việc có rủi ro, nhằm giảm thiểu sai lệch trong quá trình thực hiện và nâng cao chất lượng kết quả.
